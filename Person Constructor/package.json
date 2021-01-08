@@ -1,0 +1,8 @@
+{
+  "name": "person-constructor-js",
+  "version": "1.0.0",
+  "description": "Creating people objects in JS",
+  "main": "main.js",
+  "license": "ISC",
+  "type": "module"
+}
